@@ -49,7 +49,7 @@ Arachnophobia. He's also the secondary writer for dialog and story in Vigilantes
 
     >
     </Person>
-    <Person name="Cage Castenada"
+    <Person name="Cage Castaneda"
             positions="Writer"
             about="
 Cage is the primary writer for our upcoming survival-horror psychological thriller game Arachnophobia. He's a passionate writer and
