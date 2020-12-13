@@ -45,7 +45,7 @@ for the eventual multiplayer re-release of Viral Insurgent: Redux, as well as th
             about="
 Sam is our main artist. He's responsible for a lot of the visual look and feel of some of our games, namely Vigilantes and soon to be
 Arachnophobia. He's also the secondary writer for dialog and story in Vigilantes."
-            :imglink="`${publicPath}Images/sam.jpg`"
+            :imglink="`${publicPath}Images/Sam.jpg`"
 
     >
     </Person>
