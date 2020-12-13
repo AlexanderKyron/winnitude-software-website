@@ -54,7 +54,7 @@ Arachnophobia. He's also the secondary writer for dialog and story in Vigilantes
             about="
 Cage is the primary writer for our upcoming survival-horror psychological thriller game Arachnophobia. He's a passionate writer and
 creates fantastic, flowing, movie-quality scripts."
-            :imglink="`${publicPath}Images/ryan.jpg`"
+            :imglink="`${publicPath}Images/cage.jpg`"
 
     >
     </Person>
