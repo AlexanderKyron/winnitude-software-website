@@ -7,6 +7,7 @@ margin: 0 auto;width:55%;box-shadow:10px 10px 5px #333333; text-align:center;ali
              padding-top:45px;
              padding-bottom:45px;
              padding-left:40px;
+             padding-right:40px;
              color:white;
              text-align:center;
               ">
