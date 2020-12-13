@@ -1,0 +1,18 @@
+@font-face {
+  font-family: 'Horroroid';
+  src: url('Horroroid.svg#Horroroid') format('svg'),
+       url('Horroroid.ttf') format('truetype'),
+       url('Horroroid.woff') format('woff');
+  font-weight: normal;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'horroroid';
+  src: url('horroroid.eot');
+  src: url('horroroid.eot?#iefix') format('embedded-opentype'),
+       url('horroroid.woff2') format('woff2');
+  font-weight: normal;
+  font-style: normal;
+}
+
