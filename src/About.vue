@@ -31,24 +31,25 @@ You can find him on his personal website, at https://alexkyron.xyz."
 
 >
 </Person>
-    <Person name="Ryan Glasbug"
-            positions="Level Designer | Artist | Scripter"
+<Person name="Sam Bohara"
+            positions="Creative Director | Concept Artist | Writer"
             about="
-The newest addition to the Winnitude! Software games collective is Ryan Glasburg. He's a long-time gamer and is working on level design
-for the eventual multiplayer re-release of Viral Insurgent: Redux, as well as the logic for scripted level events and weapons."
-            :imglink="`${publicPath}Images/ryan.jpg`"
-
-    >
-    </Person>
-    <Person name="Sam Bohara"
-            positions="Concept Artist | Writer"
-            about="
-Sam is our main artist. He's responsible for a lot of the visual look and feel of some of our games, namely Vigilantes and soon to be
-Arachnophobia. He's also the secondary writer for dialog and story in Vigilantes."
+As the creative directory, Sam is responsible for a lot of the visual look and feel of some of our games, namely Vigilantes and soon to be
+Arachnophobia. He also guides the direction of the story and gives the green light on all proposed mechanics."
             :imglink="`${publicPath}Images/Sam.jpg`"
 
     >
     </Person>
+    <Person name="Ryan Glasbug"
+            positions="Level Designer | Artist | Scripter"
+            about="
+The newest addition to the Winnitude! Software games collective is Ryan Glasburg. He's a long-time gamer and is working on level design
+for Viral Insurgent: Arena, as well as the logic for scripted level events and weapons."
+            :imglink="`${publicPath}Images/ryan.jpg`"
+
+    >
+    </Person>
+   
     <Person name="Cage Castaneda"
             positions="Writer"
             about="
